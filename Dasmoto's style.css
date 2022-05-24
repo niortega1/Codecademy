@@ -1,0 +1,37 @@
+
+/*main title */
+
+.maintitle {
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+z-index: 1;
+}
+
+.img-banner {
+border: 100px;
+height: 100px;
+}
+
+/* ALL HEADING TITLES: BRUSH , FRAMES , PAINT */
+
+.title {
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+
+#brushtitle {
+background-color: mediumspringgreen;
+}
+
+#framestitle {
+background-color: lightcoral;
+}
+
+#painttitle {
+background-color: skyblue;
+}
