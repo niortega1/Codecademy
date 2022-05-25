@@ -2,6 +2,7 @@
 /*main title */
 
 .maintitle {
+background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg);
 font-family: Helvetica;
 font-size: 100px;
 font-weight: bold;
@@ -10,9 +11,10 @@ text-align: center;
 z-index: 1;
 }
 
-.img-banner {
-border: 100px;
-height: 100px;
+.price {
+font-family: Helvetica;
+font-weight: bold;
+color: blue;
 }
 
 /* ALL HEADING TITLES: BRUSH , FRAMES , PAINT */
